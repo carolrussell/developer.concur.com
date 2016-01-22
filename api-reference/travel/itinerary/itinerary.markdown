@@ -22,7 +22,7 @@ Version 1.0
 
 ### Itineraries and trips
 
-The terms itinerary and trip are synonyms. Trip is the name used for the Concur web serice resource that represents an itinerary.
+The terms itinerary and trip are synonyms. Trip is the name used for the Concur web service resource that represents an itinerary.
 
 ### Itinerary, booking record, and segment
 
